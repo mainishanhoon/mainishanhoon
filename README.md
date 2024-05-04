@@ -3,4 +3,4 @@
 
 | Python3 | C | JS | Solidity |
 |----------|----------|----------|-----|
-|  <img src="Assets/Python.svg" title="Python"  alt="Python" width="55" height="55"/> |
+|  <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.svg" title="Python"  alt="Python" width="55" height="55"/> |
