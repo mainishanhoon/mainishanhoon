@@ -40,7 +40,7 @@ As a first-year B.Tech student, my passion lies in Blockchain technology. I'm de
 
 | Linux | Windows | MacOS |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Windows" alt="Windows" width="55" height="55"/>|<img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="MacOS" alt="MacOS" width="55" height="55"/> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/>|<img src="https://static-00.iconduck.com/assets.00/macos-icon-1024x1024-szj3xvca.png" title="MacOS" alt="MacOS" width="55" height="55"/> |
 
 ---
 
