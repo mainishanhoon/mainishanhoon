@@ -40,7 +40,7 @@ As a first-year B.Tech student, my passion lies in Blockchain technology. I'm de
 
 ---
 
-<p align="center">
+[<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=mainishanhoon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
@@ -55,4 +55,4 @@ As a first-year B.Tech student, my passion lies in Blockchain technology. I'm de
 
 <p align="center">
  <img width="1000" src="Assets/github-snake.svg" alt="Snake"/>
-</p>
+</p>]: #Comment
