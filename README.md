@@ -27,9 +27,9 @@ As a first-year B.Tech student, my passion lies in Blockchain technology. I'm de
 
 ## 🇹​​🇪​​🇸​​🇹​​🇮​​🇳​​🇬​ ​🇪​​🇳​​🇻​​🇮​​🇷​​🇴​​🇳​​🇲​​🇪​​🇳​​🇹​​🇸​:
 
-| Node.js | Git | Docker | HardHat |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="55" height="55"/>|
+| Node.js | Git | Docker | HardHat | Foundry |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="55" height="55"/>|<img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" title="Foundry" alt="Foundry" width="55" height="55"/>|
 
 
 ## 🇴​​🇵​​🇪​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​:
