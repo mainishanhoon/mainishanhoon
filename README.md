@@ -40,16 +40,16 @@ As a first-year B.Tech student, my passion lies in Blockchain technology. I'm de
 
 ---
 
-[<p align="center">
+<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=mainishanhoon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<p align="center">
+<p>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mainishanhoon&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainishanhoon&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
-<div id="header" align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=mainishanhoon&style=for-the-badge&color=green" alt=""/>
 </div>
 
