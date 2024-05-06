@@ -10,7 +10,7 @@
 |----------|----------|----------|----------|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.png" title="Python"  alt="Python" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Golang.png" title="Golang" alt="Golang" width="80" height="80"/>|
 
-| ​🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​ | dd | dsdc |
+**🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​:**
 | HTML5 | CSS | React |
 |-------|-------|-------|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/React.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/React.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/React.png" title="React" alt="React" width="80" height="80"/>|
