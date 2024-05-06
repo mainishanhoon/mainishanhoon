@@ -38,6 +38,7 @@
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="80" height="80"/>|<img src="https://static-00.iconduck.com/assets.00/macos-icon-1024x1024-szj3xvca.png" title="MacOS" alt="MacOS" width="80" height="80"/> |
 
+## ɪɴᴛᴇɢʀᴀᴛᴇᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ (ɪᴅᴇ)
 ---
 
 <p align="center">
