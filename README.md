@@ -26,9 +26,9 @@
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/NumPy.png" title="Numpy" alt="Numpy" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>|
 
 ## ​🇩​​🇦​​🇹​​🇦​​🇧​​🇦​​🇸​​🇪​ ​🇲​​🇦​​🇳​​🇦​​🇬​​🇪​​🇲​​🇪​​🇳​​🇹​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​​🇸​ (​🇩​​🇧​​🇲​​🇸​):
-| SQL | MongoDB | MySQL | Postgres | SQLite |
+| SQL | PostgreSQL | MongoDB | MySQL | SQLite |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MongoDB.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MongoDB.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
 
 ## ​🇲​​🇴​​🇩​​🇺​​🇱​​🇦​​🇷​ ​🇹​​🇴​​🇴​​🇱​​🇰​​🇮​​🇹​:
 | HardHat | Foundry |
