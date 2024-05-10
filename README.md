@@ -10,7 +10,7 @@
 
 ## ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​
 <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png " , title="JavaScript" alt="JavaScript" width="80" height="80"/>
-![HTML5](https://github.com/mainishanhoon/mainishanhoon/assets/110257833/5b8dcc6f-d5b3-4d83-8259-0b33c0d4c370)
+![HTML5](https://github.com/mainishanhoon/mainishanhoon/assets/110257833/5b8dcc6f-d5b3-4d83-8259-0b33c0d4c370, (https://www.instagram.com/mainishanhoon))
 
 | ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
 |:----------:|
