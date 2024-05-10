@@ -62,9 +62,3 @@
 | VS Code | Sublime Text |
 |:----------:|:----------:|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Visual%20Studio%20Code.png" title="VS Code" alt="VS Code" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Sublime%20Text.svg" title="Sublime Text" alt="Sublime Text" width="80" height="80"/>|
-
----
-
-<p align="center">
- <img width="1000" src="Assets/github-snake.svg" alt="Snake"/>
-</p>
