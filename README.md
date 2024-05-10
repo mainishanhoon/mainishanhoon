@@ -8,9 +8,8 @@
 
 **🇮​'🇲​ 🇪​🇽​🇨​🇮​🇹​🇪​🇩​ 🇹​🇴​ 🇩​🇮​🇸​🇨​🇴​🇻​🇪​🇷​ 🇳​🇪​🇼​ 🇹​🇭​🇮​🇳​🇬​🇸​ 🇦​🇳​🇩​ 🇭​🇪​🇱​🇵​ 🇴​🇺​🇹​ 🇮​🇳​ 🇩​🇮​🇫​🇫​🇪​🇷​🇪​🇳​🇹​ 🇦​🇷​🇪​🇦​🇸​ 🇷​🇪​🇱​🇦​🇹​🇪​🇩​ 🇹​🇴​ 🇼​🇪​🇧​3.**
 
-## ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​
-<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png " , title="JavaScript" alt="JavaScript" width="80" height="80"/>
-![HTML5](https://github.com/mainishanhoon/mainishanhoon/assets/110257833/5b8dcc6f-d5b3-4d83-8259-0b33c0d4c370, (https://www.instagram.com/mainishanhoon))
+! ## ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​
+
 
 | ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
 |:----------:|
@@ -22,7 +21,7 @@
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
 | JavaScript | Solidity | Java | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
-|<img src="[https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png](https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png)" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="[https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Java.pn](https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Java.png)" title="Java" alt="Java" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Java.png" title="Java" alt="Java" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
 
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | HTML5 | CSS | React |
@@ -42,7 +41,7 @@
 ## ​🇩​​🇦​​🇹​​🇦​​🇧​​🇦​​🇸​​🇪​ ​🇲​​🇦​​🇳​​🇦​​🇬​​🇪​​🇲​​🇪​​🇳​​🇹​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​​🇸​ (​🇩​​🇧​​🇲​​🇸​)
 | SQL | PostgreSQL | MongoDB | MySQL | SQLite |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MongoDB.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
 
 ## ​🇲​​🇴​​🇩​​🇺​​🇱​​🇦​​🇷​ ​🇹​​🇴​​🇴​​🇱​​🇰​​🇮​​🇹​
 | HardHat | Foundry |
@@ -52,7 +51,7 @@
 ## ​🇩​​🇪​​🇻​​🇴​​🇵​​🇸
 | Git | Docker |
 |:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Git.png" title="Git" alt="Git" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="Git" alt="Git" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>|
 
 ## 🇴​​🇵​​🇪​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​
 | Linux | Windows | MacOS |
@@ -62,7 +61,7 @@
 ## ​🇮​​🇳​​🇹​​🇪​​🇬​​🇷​​🇦​​🇹​​🇪​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇪​​🇳​​🇻​​🇮​​🇷​​🇴​​🇳​​🇲​​🇪​​🇳​​🇹​ (​🇮​​🇩​​🇪​)
 | VS Code | Sublime Text |
 |:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Visual Studio Code.png" title="Linux" alt="Linux" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Sublime%20Text.svg" title="Windows" alt="Windows" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Visual%20Studio%20Code.png" title="Linux" alt="Linux" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Sublime%20Text.svg" title="Windows" alt="Windows" width="80" height="80"/>|
 
 ---
 
