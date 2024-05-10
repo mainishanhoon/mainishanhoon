@@ -9,7 +9,8 @@
 **🇮​'🇲​ 🇪​🇽​🇨​🇮​🇹​🇪​🇩​ 🇹​🇴​ 🇩​🇮​🇸​🇨​🇴​🇻​🇪​🇷​ 🇳​🇪​🇼​ 🇹​🇭​🇮​🇳​🇬​🇸​ 🇦​🇳​🇩​ 🇭​🇪​🇱​🇵​ 🇴​🇺​🇹​ 🇮​🇳​ 🇩​🇮​🇫​🇫​🇪​🇷​🇪​🇳​🇹​ 🇦​🇷​🇪​🇦​🇸​ 🇷​🇪​🇱​🇦​🇹​🇪​🇩​ 🇹​🇴​ 🇼​🇪​🇧​3.**
 
 ## ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​
-<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Instagram.png">(https://www.instagram.com/mainishanhoon)
+<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png " , title="JavaScript" alt="JavaScript" width="80" height="80"/>
+![HTML5](https://github.com/mainishanhoon/mainishanhoon/assets/110257833/5b8dcc6f-d5b3-4d83-8259-0b33c0d4c370)
 
 | ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
 |:----------:|
@@ -21,17 +22,17 @@
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
 | JavaScript | Solidity | Java | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Java.png" title="Java" alt="Java" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
+|<img src="[https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png](https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png)" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="[https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Java.pn](https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Java.png)" title="Java" alt="Java" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
 
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | HTML5 | CSS | React |
 |:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/React.png" title="React" alt="React" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.png" title="React" alt="React" width="80" height="80"/>|
 
 ## ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | Node.js |
 |:---------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Node.js.png" title="Node.js" alt="Node.js" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="Node.js" alt="Node.js" width="80" height="80"/>|
 
 ## ​🇩​​🇦​​🇹​​🇦​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪
 | Numpy | Pandas |  Jupyter | Matplotlib |
