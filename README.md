@@ -1,5 +1,5 @@
 <p align="center">
- <img src="Assets/Github Cover Page.png" alt="Cover Page"/>
+ <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Github%20Cover%20Page.png" alt="Cover Page"/>
 </p>
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
@@ -9,7 +9,7 @@
 **🇮​'🇲​ 🇪​🇽​🇨​🇮​🇹​🇪​🇩​ 🇹​🇴​ 🇩​🇮​🇸​🇨​🇴​🇻​🇪​🇷​ 🇳​🇪​🇼​ 🇹​🇭​🇮​🇳​🇬​🇸​ 🇦​🇳​🇩​ 🇭​🇪​🇱​🇵​ 🇴​🇺​🇹​ 🇮​🇳​ 🇩​🇮​🇫​🇫​🇪​🇷​🇪​🇳​🇹​ 🇦​🇷​🇪​🇦​🇸​ 🇷​🇪​🇱​🇦​🇹​🇪​🇩​ 🇹​🇴​ 🇼​🇪​🇧​3.**
 
 ## ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​
-[<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Instagram.png>](https://www.instagram.com/mainishanhoon)
+<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Instagram.png>(https://www.instagram.com/mainishanhoon)
 
 | ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
 |:----------:|
