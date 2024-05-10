@@ -9,7 +9,8 @@
 **🇮​'🇲​ 🇪​🇽​🇨​🇮​🇹​🇪​🇩​ 🇹​🇴​ 🇩​🇮​🇸​🇨​🇴​🇻​🇪​🇷​ 🇳​🇪​🇼​ 🇹​🇭​🇮​🇳​🇬​🇸​ 🇦​🇳​🇩​ 🇭​🇪​🇱​🇵​ 🇴​🇺​🇹​ 🇮​🇳​ 🇩​🇮​🇫​🇫​🇪​🇷​🇪​🇳​🇹​ 🇦​🇷​🇪​🇦​🇸​ 🇷​🇪​🇱​🇦​🇹​🇪​🇩​ 🇹​🇴​ 🇼​🇪​🇧​3.**
 
 ! ## ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​
-[![Foo](https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png)](http://google.com.au/)
+
+<img src=[![Instagram](https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png)](https://www.instagram.com/mainishanhoon) title="JavaScript" alt="JavaScript" width="80" height="80"/>
 
 | ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
 |:----------:|
