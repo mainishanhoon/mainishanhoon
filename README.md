@@ -26,7 +26,7 @@
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | HTML5 | CSS | React |
 |:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/React.png" title="React" alt="React" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/React.png" title="React" alt="React" width="80" height="80"/>|
 
 ## ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | Node.js |
