@@ -33,7 +33,7 @@
 ## ​🇩​​🇦​​🇹​​🇦​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪
 | Numpy | Pandas |  Jupyter | Matplotlib |
 |:----------:|:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/NumPy.png" title="Numpy" alt="Numpy" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="Numpy" alt="Numpy" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>|
 
 ## ​🇩​​🇦​​🇹​​🇦​​🇧​​🇦​​🇸​​🇪​ ​🇲​​🇦​​🇳​​🇦​​🇬​​🇪​​🇲​​🇪​​🇳​​🇹​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​​🇸​ (​🇩​​🇧​​🇲​​🇸​)
 | SQL | PostgreSQL | MongoDB | MySQL | SQLite |
