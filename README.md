@@ -43,7 +43,7 @@
 ## ​🇲​​🇴​​🇩​​🇺​​🇱​​🇦​​🇷​ ​🇹​​🇴​​🇴​​🇱​​🇰​​🇮​​🇹​
 | HardHat | Foundry |
 |:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.png" title="Foundry" alt="Foundry" width="159" height="80"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.jpg" title="Foundry" alt="Foundry" width="159" height="80"/>|
 
 ## ​🇩​​🇪​​🇻​​🇴​​🇵​​🇸
 | Git | Docker |
