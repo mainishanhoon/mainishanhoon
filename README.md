@@ -11,14 +11,13 @@
 | ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
 |:----------:|
 | JavaScript |
-| React.js |
+| Go |
 | Solidity |
-| Java |
 
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
 | JavaScript | Solidity | Java | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Java.png" title="Java" alt="Java" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="Golang" alt="Golang" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
 
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | HTML5 | CSS | React |
