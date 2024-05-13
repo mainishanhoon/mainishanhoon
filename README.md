@@ -15,14 +15,14 @@
 | Solidity |
 
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
-| JavaScript | Solidity | Java | Python3 |
+| JavaScript | Go | Solidity | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="Golang" alt="Golang" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
 
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
-| HTML5 | CSS | React |
+| HTML5 | CSS | React.js |
 |:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.png" title="React" alt="React" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="React.js" alt="React.js" width="80" height="80"/>|
 
 ## ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | Node.js |
@@ -49,7 +49,4 @@
 |:----------:|:----------:|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="Git" alt="Git" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>|
 
-## ​🇮​​🇳​​🇹​​🇪​​🇬​​🇷​​🇦​​🇹​​🇪​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇪​​🇳​​🇻​​🇮​​🇷​​🇴​​🇳​​🇲​​🇪​​🇳​​🇹​ (​🇮​​🇩​​🇪​)
-| VS Code | Sublime Text |
-|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Visual%20Studio%20Code.png" title="VS Code" alt="VS Code" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Sublime%20Text.svg" title="Sublime Text" alt="Sublime Text" width="80" height="80"/>|
+<!-- ## ​🇮​​🇳​​🇹​​🇪​​🇬​​🇷​​🇦​​🇹​​🇪​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇪​​🇳​​🇻​​🇮​​🇷​​🇴​​🇳​​🇲​​🇪​​🇳​​🇹​ (​🇮​​🇩​​🇪​) -->
