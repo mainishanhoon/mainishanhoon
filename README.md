@@ -62,12 +62,12 @@
   </caption>
   <thead>
     <tr>
-      <th scope="col" colspan ="3">🇫ʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
+      <th scope="col" colspan ="3"><b>🇫ʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</b></th>
     </tr>
   </thead>
   <tbody>
        <tr>
-      <td align ="center"><b>ʜᴛᴍʟ ƽ</b>b></td>
+      <td align ="center"><b>ʜᴛᴍʟ ƽ</b></td>
       <td align ="center">ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</td>
       <td align ="center">ᴘʏᴛʜᴏɴ</td>
     </tr>
