@@ -14,7 +14,7 @@
     </tr>
     <tr>
     <td align="center">JavaScript</td>
-      <td align="center">
+      <td align="center" rowspan="3">
         <a href="https://x.com/mainishanhoon" target="_blank">
           <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Twitter.png" width="80" height="80" alt="Twitter">
         </a>
