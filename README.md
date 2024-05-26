@@ -4,12 +4,7 @@
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
 
-**🇫​🇮​🇷​🇸​🇹​-🇾​🇪​🇦​🇷​ 🇧​.🇹​🇪​🇨​🇭​ 🇸​🇹​🇺​🇩​🇪​🇳​🇹​, 🇮​ 🇷​🇪​🇦​🇱​🇱​🇾​ 🇱​🇮​🇰​🇪​ 🇧​🇱​🇴​🇨​🇰​🇨​🇭​🇦​🇮​🇳​ 🇹​🇪​🇨​🇭​🇳​🇴​🇱​🇴​🇬​🇾​. 🇮​ 🇼​🇦​🇳​🇹​ 🇹​🇴​ 🇱​🇪​🇦​🇷​🇳​ 🇦​ 🇱​🇴​🇹​ 🇦​🇧​🇴​🇺​🇹​ 🇮​🇹​ 🇧​🇪​🇨​🇦​🇺​🇸​🇪​ 🇮​🇹​'🇸​ 🇫​🇦​🇸​🇨​🇮​🇳​🇦​🇹​🇮​🇳​🇬​ 🇹​🇴​ 🇲​🇪​.**
-
-**🇮​'🇲​ 🇪​🇽​🇨​🇮​🇹​🇪​🇩​ 🇹​🇴​ 🇩​🇮​🇸​🇨​🇴​🇻​🇪​🇷​ 🇳​🇪​🇼​ 🇹​🇭​🇮​🇳​🇬​🇸​ 🇦​🇳​🇩​ 🇭​🇪​🇱​🇵​ 🇴​🇺​🇹​ 🇮​🇳​ 🇩​🇮​🇫​🇫​🇪​🇷​🇪​🇳​🇹​ 🇦​🇷​🇪​🇦​🇸​ 🇷​🇪​🇱​🇦​🇹​🇪​🇩​ 🇹​🇴​ 🇼​🇪​🇧​3.**
-
-| ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ |
-|:----------:|
+**🇫​🇮​🇷​🇸​🇹​-🇾​🇪​🇦​🇷​ 🇧​.🇹​🇪​🇨​🇭​ 🇸​🇹​🇺​🇩​🇪​🇳​🇹​, 🇮​ 🇷​🇪​🇦​🇱​🇱​🇾​ 🇱​🇮​🇰​🇪​ 🇧​🇱​🇴​🇨​🇰​🇨​🇭​🇦​🇮​🇳​ 🇹​🇪​🇨​🇭​🇳​🇴​🇱​🇴​🇬​🇾​. 🇮​ 🇼​🇦​🇳​🇹​ 🇹​🇴​ 🇱​🇪​🇦​🇷​🇳​ 🇦​ 🇱​🇴​🇹​ 🇦​🇧​🇴​🇺​🇹​ 🇮​🇹​ '🇨​🇦​🇺​🇸​🇪​ 🇮​🇹​'🇸​ 🇫​🇦​🇸​🇨​🇮​🇳​🇦​🇹​🇮​🇳​🇬​ 🇹​🇴​ 🇲​🇪​.**
 
 <br/>
 <table align="left">
@@ -17,21 +12,21 @@
   </caption>
   <thead>
     <tr>
-      <th scope="col" colspan ="3">​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​ѕ</th>
+      <th scope="col" colspan ="3">ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
     </tr>
   </thead>
   <tbody>
        <tr>
-      <td align ="center">TypeScript</td>
-      <td align ="center">JavaScript</td>
-      <td align ="center">Python</td>
+      <td align ="center">ᴛʏᴘᴇѕᴄʀɪᴘᴛ</td>
+      <td align ="center">ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</td>
+      <td align ="center">ᴘʏᴛʜᴏɴ</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="TypeScript" alt="TypeScript" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="80" height="80"/></td>     
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" alt="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="80" height="80"/></td>     
     </tr>
   </tfoot>
 </table>
@@ -46,21 +41,70 @@
   </thead>
   <tbody>
        <tr>
-      <td align ="center">Solidity</td>
-      <td align ="center">Go</td>
-      <td align ="center">Rust</td>
+      <td align ="center">ѕs𝗌ѕᴏʟɪᴅɪᴛʏ</td>
+      <td align ="center">ɢᴏ</td>
+      <td align ="center">ʀᴜѕᴛ</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="Golang" alt="Golang" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="Python"  alt="Python" width="80" height="80"/></td>     
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="80" height="80"/></td>     
     </tr>
   </tfoot>
 </table>
 <br/>
 
+<br/>
+<table align="left">
+  <caption>
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col" colspan ="3">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td align ="center">ᴛʏᴘᴇѕᴄʀɪᴘᴛ</td>
+      <td align ="center">ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</td>
+      <td align ="center">ᴘʏᴛʜᴏɴ</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" alt="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="80" height="80"/></td>     
+    </tr>
+  </tfoot>
+</table>
+
+<table align="right">
+  <caption>
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col" colspan ="3">​​ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td align ="center">ѕᴏʟɪᴅɪᴛʏ</td>
+      <td align ="center">ɢᴏ</td>
+      <td align ="center">ʀᴜѕᴛ</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="80" height="80"/></td>     
+    </tr>
+  </tfoot>
+</table>
+<br/>
 <!--
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
 | JavaScript | Go | Solidity | Python3 |
