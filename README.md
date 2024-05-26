@@ -4,7 +4,7 @@
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
 
-<b>🇫​🇮​🇷​🇸​🇹​-🇾​🇪​🇦​🇷​ 🇧​.🇹​🇪​🇨​🇭​ 🇸​🇹​🇺​🇩​🇪​🇳​🇹​, 🇮​ 🇷​🇪​🇦​🇱​🇱​🇾​ 🇱​🇮​🇰​🇪​ 🇧​🇱​🇴​🇨​🇰​🇨​🇭​🇦​🇮​🇳​ 🇹​🇪​🇨​🇭​🇳​🇴​🇱​🇴​🇬​🇾​. 🇮​ 🇼​🇦​🇳​🇹​ 🇹​🇴​ 🇱​🇪​🇦​🇷​🇳​ 🇦​ 🇱​🇴​🇹​ 🇦​🇧​🇴​🇺​🇹​ 🇮​🇹​ '🇨​🇦​🇺​🇸​🇪​ 🇮​🇹​'🇸​ 🇫​🇦​🇸​🇨​🇮​🇳​🇦​🇹​🇮​🇳​🇬​ 🇹​🇴​ 🇲​🇪​.</b>
+<b>ɪ ʟᴏᴠᴇ ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ᴇѕᴘᴇᴄɪᴀʟʟʏ ѕᴍᴀʀᴛ ᴄᴏɴᴛʀᴀᴄᴛѕ, ʙᴇᴄᴀᴜѕᴇ ᴛʜᴇʏ ᴄᴀɴ ᴄʜᴀɴɢᴇ ʜᴏᴡ ɪɴᴅᴜѕᴛʀɪᴇѕ ᴡᴏʀᴋ ʙʏ ᴍᴀᴋɪɴɢ ᴀɢʀᴇᴇᴍᴇɴᴛѕ ᴀᴜᴛᴏᴍᴀᴛɪᴄ ᴀɴᴅ ᴛʀᴜѕᴛᴡᴏʀᴛʜʏ ᴡɪᴛʜᴏᴜᴛ ᴍɪᴅᴅʟᴇᴍᴇɴ. ᴛᴏ ʙʀɪᴅɢᴇ ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴡɪᴛʜ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴѕ, ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b>
 
 <br/>
 
@@ -119,16 +119,16 @@
       <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕǫʟ</b></td>
       <td align ="center"><b>ᴍᴏɴɢᴏᴅʙ</b></td>
       <td align ="center"><b>ᴍʏѕ​​ǫʟ</b></td>
-      <td align ="center"><b>ѕϙʟɪᴛᴇ</b></td>
+      <td align ="center"><b>ѕǫʟɪᴛᴇ</b></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕ🇶​​ʟ" alt="ѕ🇶​​ʟ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕ🇶​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕ🇶​​ʟ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕǫ​​ʟ" alt="ѕǫ​​ʟ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="ᴍᴏɴɢᴏᴅʙ" alt="ᴍᴏɴɢᴏᴅʙ" width="80" height="80"/></td>     
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕ🇶​​ʟ" alt="ᴍʏѕ🇶​​ʟ" width="80" height="80"/></td>     
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​​ʟɪᴛᴇ" alt="ѕ🇶​​ʟɪᴛᴇ" width="80" height="80"/></td>     
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕǫ​​ʟ" alt="ᴍʏѕǫ​​ʟ" width="80" height="80"/></td>     
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​ǫʟɪᴛᴇ" alt="ѕǫ​​ʟɪᴛᴇ" width="80" height="80"/></td>     
     </tr>
   </tfoot>
 </table>
@@ -170,7 +170,7 @@
   <tbody>
        <tr>
       <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
-      <td align ="center"><b>🇫ᴏᴜɴᴅʀʏ</b></td>
+      <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
     </tr>
   </tbody>
   <tfoot>
