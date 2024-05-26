@@ -16,32 +16,32 @@
     <td align="center">JavaScript</td>
       <td align="center" rowspan="3">
         <a href="https://x.com/mainishanhoon" target="_blank">
-          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Twitter.png" width="90" height="90" alt="Twitter">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Twitter.png" width="80" height="80" alt="Twitter">
         </a>
       </td>
       <td align="center" rowspan="3">
         <a href="mailto:NishanKashyap@hotmail.com">
-        <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Email.png" width="90" height="90" alt="Email">
+        <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Email.png" width="80" height="80" alt="Email">
         </a>
       </td>
       <td align="center" rowspan="3">
         <a href="https://www.linkedin.com/in/mainishanhoon" target="_blank">
-          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/LinkedIn.png" width="90" height="90" alt="LinkedIn">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/LinkedIn.png" width="80" height="80" alt="LinkedIn">
         </a>
       </td>
       <td align="center" rowspan="3">
-        <a href="https://discordapp.com/users/531301893050204165" target="_blank">
-          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Discord.png" width="90" height="90" alt="Discord">
+        <a href="https://discordapp.com/users/531301893050204170" target="_blank">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Discord.png" width="80" height="80" alt="Discord">
         </a>
       </td>
       <td align="center" rowspan="3">
         <a href="https://telegram.me/mainishanhoon" target="_blank">
-          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Telegram.png" width="90" height="90" alt="Telegram">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Telegram.png" width="80" height="80" alt="Telegram">
         </a>
       </td>
       <td align="center" rowspan="3">
         <a href="https://www.instagram.com/mainishanhoon" target="_blank">
-          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Instagram.png" width="90" height="90" alt="Instagram">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Instagram.png" width="80" height="80" alt="Instagram">
         </a>
       </td>
     </tr>
@@ -71,9 +71,9 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" alt="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="65" height="65"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" alt="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="70" height="70"/></td>     
        </tr>
      </tfoot>
    </table>
@@ -94,10 +94,10 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solidity.png" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solana.png" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="65" height="65"/></td> 
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="65" height="65"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solidity.png" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solana.png" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="70" height="70"/></td> 
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="70" height="70"/></td>     
        </tr>
      </tfoot>
    </table>
@@ -121,11 +121,11 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="ʜᴛᴍʟ ƽ" alt="ʜᴛᴍʟ ƽ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="ᴄѕѕ" alt="ᴄѕѕ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="65" height="65"/></td>     
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="65" height="65"/></td>     
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="65" height="65"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="ʜᴛᴍʟ ƽ" alt="ʜᴛᴍʟ ƽ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="ᴄѕѕ" alt="ᴄѕѕ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="70" height="70"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="70" height="70"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="70" height="70"/></td>
        </tr>
      </tfoot>
    </table>
@@ -144,8 +144,8 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="65" height="65"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="70" height="70"/></td>     
        </tr>
      </tfoot>
    </table>
@@ -169,11 +169,11 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕǫ​​ʟ" alt="ѕǫ​​ʟ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="ᴍᴏɴɢᴏᴅʙ" alt="ᴍᴏɴɢᴏᴅʙ" width="65" height="65"/></td>     
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕǫ​​ʟ" alt="ᴍʏѕǫ​​ʟ" width="65" height="65"/></td>     
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​ǫʟɪᴛᴇ" alt="ѕǫ​​ʟɪᴛᴇ" width="65" height="65"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕǫ​​ʟ" alt="ѕǫ​​ʟ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="ᴍᴏɴɢᴏᴅʙ" alt="ᴍᴏɴɢᴏᴅʙ" width="70" height="70"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕǫ​​ʟ" alt="ᴍʏѕǫ​​ʟ" width="70" height="70"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​ǫʟɪᴛᴇ" alt="ѕǫ​​ʟɪᴛᴇ" width="70" height="70"/></td>     
        </tr>
      </tfoot>
    </table>
@@ -192,8 +192,8 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="65" height="65"/></td>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="70" height="70"/></td>
        </tr>
      </tfoot>
    </table>
@@ -215,9 +215,9 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="ᴀᴡѕ" alt="ᴀᴡѕ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="ɢɪᴛ" alt="ɢɪᴛ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="ᴅᴏᴄᴋᴇʀ" alt="ᴅᴏᴄᴋᴇʀ" width="65" height="65"/></td>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="ᴀᴡѕ" alt="ᴀᴡѕ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="ɢɪᴛ" alt="ɢɪᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="ᴅᴏᴄᴋᴇʀ" alt="ᴅᴏᴄᴋᴇʀ" width="70" height="70"/></td>
        </tr>
      </tfoot>
    </table>
@@ -238,10 +238,10 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="ɴᴜᴍᴘʏ" alt="ɴᴜᴍᴘʏ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="65" height="65"/></td>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="65" height="65"/></td> 
-         <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="65" height="65"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="ɴᴜᴍᴘʏ" alt="ɴᴜᴍᴘʏ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="70" height="70"/></td> 
+         <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="70" height="70"/></td>
        </tr>
      </tfoot>
    </table>
@@ -252,39 +252,39 @@
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
 | JavaScript | Go | Solidity | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="Golang" alt="Golang" width="90" height="90"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="90" height="90"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="Golang" alt="Golang" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
 
 
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | HTML5 | CSS | Tailwind CSS |
 |:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="CSS" alt="CSS" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="React.js" alt="React.js" width="90" height="90"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/HTML5.png" title="HTML5" alt="HTML5" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="CSS" alt="CSS" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="React.js" alt="React.js" width="80" height="80"/>|
 
 
 ## ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​
 | Node.js |
 |:---------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="Node.js" alt="Node.js" width="90" height="90"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="Node.js" alt="Node.js" width="80" height="80"/>|
 
 
 ## ​🇩​​🇦​​🇹​​🇦​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪
 | Numpy | Pandas |  Jupyter | Matplotlib |
 |:----------:|:----------:|:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="Numpy" alt="Numpy" width="90" height="90"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="90" height="90"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="90" height="90"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="90" height="90"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="Numpy" alt="Numpy" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>|
 
 ## ​🇩​​🇦​​🇹​​🇦​​🇧​​🇦​​🇸​​🇪​ ​🇲​​🇦​​🇳​​🇦​​🇬​​🇪​​🇲​​🇪​​🇳​​🇹​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​​🇸​ (​🇩​​🇧​​🇲​​🇸​)
 | SQL | PostgreSQL | MongoDB | MySQL | SQLite |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="SQL" alt="SQL" width="90" height="90"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="MongoDB" alt="MongoDB" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="MySQL" alt="MySQL" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="SQLite" alt="SQLite" width="90" height="90"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
 
 ## ​🇲​​🇴​​🇩​​🇺​​🇱​​🇦​​🇷​ ​🇹​​🇴​​🇴​​🇱​​🇰​​🇮​​🇹​
 | HardHat | Foundry |
 |:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="90" height="90"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.jpeg" title="Foundry" alt="Foundry" width="159" height="80"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.jpeg" title="Foundry" alt="Foundry" width="159" height="80"/>|
 
 ## ​🇩​​🇪​​🇻​​🇴​​🇵​​🇸
 | Git | Docker |
 |:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="Git" alt="Git" width="90" height="90"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="90" height="90"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="Git" alt="Git" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>|
 -->
 <!-- ## ​🇮​​🇳​​🇹​​🇪​​🇬​​🇷​​🇦​​🇹​​🇪​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇪​​🇳​​🇻​​🇮​​🇷​​🇴​​🇳​​🇲​​🇪​​🇳​​🇹​ (​🇮​​🇩​​🇪​) -->
