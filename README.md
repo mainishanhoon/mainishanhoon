@@ -41,7 +41,7 @@
   </thead>
   <tbody>
        <tr>
-      <td align ="center">ѕs𝗌ѕᴏʟɪᴅɪᴛʏ</td>
+      <td align ="center">ѕᴏʟɪᴅɪᴛʏ</td>
       <td align ="center">ɢᴏ</td>
       <td align ="center">ʀᴜѕᴛ</td>
     </tr>
@@ -62,12 +62,12 @@
   </caption>
   <thead>
     <tr>
-      <th scope="col" colspan ="3">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
+      <th scope="col" colspan ="3">🇫ʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
     </tr>
   </thead>
   <tbody>
        <tr>
-      <td align ="center">ᴛʏᴘᴇѕᴄʀɪᴘᴛ</td>
+      <td align ="center"><b>ʜᴛᴍʟ ƽ</b>b></td>
       <td align ="center">ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</td>
       <td align ="center">ᴘʏᴛʜᴏɴ</td>
     </tr>
