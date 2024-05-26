@@ -2,9 +2,49 @@
  <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Github%20Cover%20Page.png" alt="Cover Page"/>
 </p>
 
-## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​
-
+## ​ᴀʙᴏᴜᴛ ᴍᴇ
 <b>ɪ ʟᴏᴠᴇ ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ᴇѕᴘᴇᴄɪᴀʟʟʏ ѕᴍᴀʀᴛ ᴄᴏɴᴛʀᴀᴄᴛѕ, ʙᴇᴄᴀᴜѕᴇ ᴛʜᴇʏ ᴄᴀɴ ᴄʜᴀɴɢᴇ ʜᴏᴡ ɪɴᴅᴜѕᴛʀɪᴇѕ ᴡᴏʀᴋ ʙʏ ᴍᴀᴋɪɴɢ ᴀɢʀᴇᴇᴍᴇɴᴛѕ ᴀᴜᴛᴏᴍᴀᴛɪᴄ ᴀɴᴅ ᴛʀᴜѕᴛᴡᴏʀᴛʜʏ ᴡɪᴛʜᴏᴜᴛ ᴍɪᴅᴅʟᴇᴍᴇɴ. ᴛᴏ ʙʀɪᴅɢᴇ ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴡɪᴛʜ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴѕ, ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰʀᴏɴᴛᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <th align="center" >ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</th>
+    <th align="center" colspan="7">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴏɴ</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="" target="_blank">
+        <img src="./thumbnails/thumbnail-1.png" width="300" alt="Twitter">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/mainishanhoon" target="_blank">
+        <img src="./thumbnails/thumbnail-2.png" width="300" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
+        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
+        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
+        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Instagram">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
+        <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Instagram.png" width="300" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -54,9 +94,6 @@
 
 <br/>
 
-<br>
-
-<br/>
 <table align="left">
   <thead>
     <tr>
@@ -102,11 +139,9 @@
     </tr>
   </tfoot>
 </table>
-<br/>
-
-<br>
 
 <br/>
+
 <table align="left">
   <thead>
     <tr>
@@ -136,34 +171,6 @@
 <table align="right">
   <thead>
     <tr>
-      <th scope="col" colspan ="4">ᴅᴀᴛᴀ ѕᴄɪᴇɴᴄᴇ</th>
-    </tr>
-  </thead>
-  <tbody>
-       <tr>
-      <td align ="center"><b>ɴᴜᴍᴘʏ</b></td>
-      <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
-      <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ</b></td>
-      <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="ɴᴜᴍᴘʏ" alt="ɴᴜᴍᴘʏ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="80" height="80"/></td> 
-      <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
-    </tr>
-  </tfoot>
-</table>
-<br/>
-
-<br>
-
-<br/>
-<table align="left">
-  <thead>
-    <tr>
       <th scope="col" colspan ="2">​​ᴍᴏᴅᴜʟᴀʀ ᴛᴏᴏʟᴋɪᴛ</th>
     </tr>
   </thead>
@@ -181,7 +188,9 @@
   </tfoot>
 </table>
 
-<table align="right">
+<br/>
+
+<table align="left">
   <thead>
     <tr>
       <th scope="col" colspan ="3">ᴅᴇᴠᴏᴘѕ</th>
@@ -202,6 +211,31 @@
     </tr>
   </tfoot>
 </table>
+
+<table align="right">
+  <thead>
+    <tr>
+      <th scope="col" colspan ="4">ᴅᴀᴛᴀ ѕᴄɪᴇɴᴄᴇ</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td align ="center"><b>ɴᴜᴍᴘʏ</b></td>
+      <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
+      <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ</b></td>
+      <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="ɴᴜᴍᴘʏ" alt="ɴᴜᴍᴘʏ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="80" height="80"/></td> 
+      <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
+    </tr>
+  </tfoot>
+</table>
+
 <br/>
 
 <!--
