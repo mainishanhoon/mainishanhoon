@@ -115,10 +115,10 @@
   </thead>
   <tbody>
        <tr>
-      <td align ="center"><b>ѕ🇶​​ʟ</b></td>
-      <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕ🇶ʟ</b></td>
+      <td align ="center"><b>ѕǫ​​ʟ</b></td>
+      <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕǫʟ</b></td>
       <td align ="center"><b>ᴍᴏɴɢᴏᴅʙ</b></td>
-      <td align ="center"><b>ᴍʏѕ​​🇶ʟ</b></td>
+      <td align ="center"><b>ᴍʏѕ​​ǫʟ</b></td>
       <td align ="center"><b>ѕϙʟɪᴛᴇ</b></td>
     </tr>
   </tbody>
