@@ -35,9 +35,7 @@
     </tr>
   </tfoot>
 </table>
-<br/>
 
-<br/>
 <table align="right">
   <caption>
   </caption>
