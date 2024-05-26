@@ -8,43 +8,50 @@
 <br/>
 
 <table align="center">
-  <tr>
-    <th align="center" >ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</th>
-    <th align="center" colspan="7">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴏɴ</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="" target="_blank">
-        <img src="./thumbnails/thumbnail-1.png" width="300" alt="Twitter">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/mainishanhoon" target="_blank">
-        <img src="./thumbnails/thumbnail-2.png" width="300" alt="LinkedIn">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
-        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Instagram">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
-        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Instagram">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
-        <img src="./thumbnails/thumbnail-3.png" width="300" alt="Instagram">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/wUjYK5gwNZs" target="_blank">
-        <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Instagram.png" width="300" alt="Instagram">
-      </a>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <th align="center" >ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</th>
+      <th align="center" colspan="6">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴏɴ</th>
+    </tr>
+    <tr>
+    <td align="center">JavaScript</td>
+      <td align="center">
+        <a href="https://x.com/mainishanhoon" target="_blank">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Twitter.png" width="80" height="80" alt="Twitter">
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:NishanKashyap@hotmail.com">
+        <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Email.png" width="80" height="80" alt="Email">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mainishanhoon" target="_blank">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/LinkedIn.png" width="80" height="80" alt="LinkedIn">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discordapp.com/users/531301893050204170" target="_blank">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Discord.png" width="80" height="80" alt="Discord">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://telegram.me/mainishanhoon" target="_blank">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Telegram.png" width="80" height="80" alt="Telegram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/mainishanhoon" target="_blank">
+          <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Instagram.png" width="80" height="80" alt="Instagram">
+        </a>
+      </td>
+    </tr>
+    <tr>
+    <td align="center">Go</td>
+    </tr>
+    <tr>
+    <td align="center">Solidity</td>
+    </tr>
+  </table>
 
 <br/>
 
