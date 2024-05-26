@@ -60,7 +60,7 @@
 <table align="left">
   <thead>
     <tr>
-      <th scope="col" colspan ="4">🇫ʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
+      <th scope="col" colspan ="5">🇫ʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
     </tr>
   </thead>
   <tbody>
