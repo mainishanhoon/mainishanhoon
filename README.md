@@ -14,83 +14,27 @@
 <br/>
 <table align="left">
   <caption>
-    Front-end web developer course 2021
   </caption>
   <thead>
     <tr>
-      <th scope="col" colspan ="2">Programming Languages</th>
-      <th scope="col" colspan = "2"></th>
-      <th scope="col">BlockChain</th>
+      <th scope="col" colspan ="4">
+      <font size="5">​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​</font></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Chris</th>
-      <td>HTML tables</td>
-      <td></td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <th scope="row">Dennis</th>
-      <td>Web accessibility</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <th scope="row">Sarah</th>
-      <td>JavaScript frameworks</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <th scope="row">Karen</th>
-      <td>Web performance</td>
-      <td>36</td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/></td>
+      <td align ="center">Go</td>
+      <td align ="center">Rust</td>
+      <td align ="center">Python</td>     
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <th scope="row" colspan="2">Average age</th>
-      <td>33</td>
-    </tr>
-  </tfoot>
-</table>
-<table align="right">
-  <caption>
-    Front-end web developer course 2021
-  </caption>
-  <thead>
-    <tr>
-      <th scope="col" colspan ="2">Programming Languages</th>
-      <th scope="col" colspan = "2"></th>
-      <th scope="col">BlockChain</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Chris</th>
-      <td>HTML tables</td>
-      <td></td>
-      <td>22</td>
-    </tr>
-    <tr>
-      <th scope="row">Dennis</th>
-      <td>Web accessibility</td>
-      <td>45</td>
-    </tr>
-    <tr>
-      <th scope="row">Sarah</th>
-      <td>JavaScript frameworks</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <th scope="row">Karen</th>
-      <td>Web performance</td>
-      <td>36</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <th scope="row" colspan="2">Average age</th>
-      <td>33</td>
+      <td align ="center">JavaScript</td>
+      <td align ="center">Go</td>
+      <td align ="center">Rust</td>
+      <td align ="center">Python</td> 
     </tr>
   </tfoot>
 </table>
