@@ -17,7 +17,7 @@
   </caption>
   <thead>
     <tr>
-      <th scope="col" colspan ="4"><h2>​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​</h2></th>
+      <th scope="col" colspan ="4">​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​</th>
     </tr>
   </thead>
   <tbody>
@@ -38,8 +38,34 @@
   </tfoot>
 </table>
 <br/>
-<br>
 
+<br/>
+<table align="left">
+  <caption>
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col" colspan ="4">​​🇧​​🇱​​🇴​​🇨​​🇰​​🇨​​🇭​​🇦​​🇮​​🇳​ ʙʟᴏᴄᴋᴄʜᴀɪɴ 🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td align ="center">JavaScript</td>
+      <td align ="center">Go</td>
+      <td align ="center">Rust</td>
+      <td align ="center">Python</td> 
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="Golang" alt="Golang" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="Python"  alt="Python" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="Python"  alt="Python" width="80" height="80"/></td>     
+    </tr>
+  </tfoot>
+</table>
+<br/>
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​
 | JavaScript | Go | Solidity | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
