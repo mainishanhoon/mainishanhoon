@@ -119,7 +119,7 @@
       <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕ🇶ʟ</b></td>
       <td align ="center"><b>ᴍᴏɴɢᴏᴅʙ</b></td>
       <td align ="center"><b>ᴍʏѕ​​🇶ʟ</b></td>
-      <td align ="center"><b>ѕ🇶ʟɪᴛᴇ</b></td>
+      <td align ="center"><b>ѕQʟɪᴛᴇ</b></td>
     </tr>
   </tbody>
   <tfoot>
