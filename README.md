@@ -69,6 +69,7 @@
       <td align ="center"><b>ᴄѕѕ</b></td>
       <td align ="center"><b>ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ</b></td>
       <td align ="center"><b>ʀᴇᴀᴄᴛ.ᴊѕ</b></td>
+        <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td>
     </tr>
   </tbody>
   <tfoot>
@@ -77,6 +78,7 @@
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="ᴄѕѕ" alt="ᴄѕѕ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="80" height="80"/></td>     
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="80" height="80"/></td>     
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="80" height="80"/></td>
     </tr>
   </tfoot>
 </table>
@@ -168,7 +170,7 @@
   <tbody>
        <tr>
       <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
-      <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
+      <td align ="center"><b>🇫ᴏᴜɴᴅʀʏ</b></td>
     </tr>
   </tbody>
   <tfoot>
@@ -182,17 +184,19 @@
 <table align="right">
   <thead>
     <tr>
-      <th scope="col" colspan ="2">ᴅᴇᴠᴏᴘѕ</th>
+      <th scope="col" colspan ="3">ᴅᴇᴠᴏᴘѕ</th>
     </tr>
   </thead>
   <tbody>
        <tr>
+      <td align ="center"><b>ᴀᴡѕ</b></td>
       <td align ="center"><b>ɢɪᴛ</b></td>
       <td align ="center"><b>ᴅᴏᴄᴋᴇʀ</b></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="ᴀᴡѕ" alt="ᴀᴡѕ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="ɢɪᴛ" alt="ɢɪᴛ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="ᴅᴏᴄᴋᴇʀ" alt="ᴅᴏᴄᴋᴇʀ" width="80" height="80"/></td>
     </tr>
