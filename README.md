@@ -191,7 +191,7 @@
      <tfoot>
        <tr>
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.jpeg" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="159" height="70"/></td>
+         <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="70" height="70"/></td>
        </tr>
      </tfoot>
    </table>
