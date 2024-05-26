@@ -134,19 +134,23 @@
 <table align="right">
   <thead>
     <tr>
-      <th scope="col" colspan ="2">ᴅᴇᴠᴏᴘѕ</th>
+      <th scope="col" colspan ="4">ᴅᴀᴛᴀ ѕᴄɪᴇɴᴄᴇ</th>
     </tr>
   </thead>
   <tbody>
        <tr>
-      <td align ="center"><b>ɢɪᴛ</b></td>
-      <td align ="center"><b>ᴅᴏᴄᴋᴇʀ</b></td>
+      <td align ="center"><b>ɴᴜᴍᴘʏ</b></td>
+      <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
+      <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ</b></td>
+      <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="ɢɪᴛ" alt="ɢɪᴛ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="ᴅᴏᴄᴋᴇʀ" alt="ᴅᴏᴄᴋᴇʀ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="80" height="80"/></td> 
+      <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
     </tr>
   </tfoot>
 </table>
@@ -155,7 +159,6 @@
 <br>
 
 <br/>
-
 <table align="left">
   <thead>
     <tr>
@@ -179,27 +182,22 @@
 <table align="right">
   <thead>
     <tr>
-      <th scope="col" colspan ="4">ᴅᴀᴛᴀ ѕᴄɪᴇɴᴄᴇ</th>
+      <th scope="col" colspan ="2">ᴅᴇᴠᴏᴘѕ</th>
     </tr>
   </thead>
   <tbody>
        <tr>
-      <td align ="center"><b>ɴᴜᴍᴘʏ</b></td>
-      <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
-      <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ</b></td>
-      <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
+      <td align ="center"><b>ɢɪᴛ</b></td>
+      <td align ="center"><b>ᴅᴏᴄᴋᴇʀ</b></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="80" height="80"/></td> 
-      <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="ɢɪᴛ" alt="ɢɪᴛ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="ᴅᴏᴄᴋᴇʀ" alt="ᴅᴏᴄᴋᴇʀ" width="80" height="80"/></td>
     </tr>
   </tfoot>
 </table>
-
 <br/>
 
 <!--
