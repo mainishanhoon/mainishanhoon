@@ -149,7 +149,7 @@
   </tbody>
   <tfoot>
     <tr>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/NumPy.png" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="80" height="80"/></td> 
       <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
