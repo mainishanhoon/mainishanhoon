@@ -8,7 +8,7 @@
 
 <br/>
 
-<table align="center">
+<table align="left">
   <thead>
     <tr>
       <th scope="col" colspan ="3">ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
@@ -30,7 +30,7 @@
   </tfoot>
 </table>
 
-<table align="center">
+<table align="right">
   <thead>
     <tr>
       <th scope="col" colspan ="3">​​ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
@@ -53,7 +53,9 @@
 </table>
 
 <br/>
+
 <br>
+
 <br/>
 <table align="left">
   <thead>
@@ -99,7 +101,9 @@
   </tfoot>
 </table>
 <br/>
+
 <br>
+
 <br/>
 <table align="left">
   <thead>
@@ -121,54 +125,8 @@
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕ🇶​​ʟ" alt="ѕ🇶​​ʟ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕ🇶​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕ🇶​​ʟ" width="80" height="80"/></td>
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="ᴍᴏɴɢᴏᴅʙ" alt="ᴍᴏɴɢᴏᴅʙ" width="80" height="80"/></td>     
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQLʟ.png" title="ᴍʏѕ🇶​​ʟ" alt="ᴍʏѕ🇶​​ʟ" width="80" height="80"/></td>     
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕ🇶​​ʟ" alt="ᴍʏѕ🇶​​ʟ" width="80" height="80"/></td>     
       <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​​ʟɪᴛᴇ" alt="ѕ🇶​​ʟɪᴛᴇ" width="80" height="80"/></td>     
-    </tr>
-  </tfoot>
-</table>
-
-<table align="right">
-  <thead>
-    <tr>
-      <th scope="col" colspan ="3">ᴅᴀᴛᴀ ѕᴄɪᴇɴᴄᴇ</th>
-    </tr>
-  </thead>
-  <tbody>
-       <tr>
-      <td align ="center"><b>ɴᴜᴍᴘʏ</b></td>
-      <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
-      <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ</b></td>
-      <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="80" height="80"/></td> 
-      <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
-    </tr>
-  </tfoot>
-</table>
-<br/>
-<br>
-<br/>
-<table align="left">
-  <thead>
-    <tr>
-      <th scope="col" colspan ="2">​​ᴍᴏᴅᴜʟᴀʀ ᴛᴏᴏʟᴋɪᴛ</th>
-    </tr>
-  </thead>
-  <tbody>
-       <tr>
-      <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
-      <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="80" height="80"/></td>
-      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.jpeg" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="159" height="80"/></td>
     </tr>
   </tfoot>
 </table>
@@ -192,6 +150,56 @@
     </tr>
   </tfoot>
 </table>
+<br/>
+
+<br>
+
+<br/>
+
+<table align="left">
+  <thead>
+    <tr>
+      <th scope="col" colspan ="2">​​ᴍᴏᴅᴜʟᴀʀ ᴛᴏᴏʟᴋɪᴛ</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
+      <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/FoundrySS.jpeg" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="159" height="80"/></td>
+    </tr>
+  </tfoot>
+</table>
+
+<table align="right">
+  <thead>
+    <tr>
+      <th scope="col" colspan ="4">ᴅᴀᴛᴀ ѕᴄɪᴇɴᴄᴇ</th>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+      <td align ="center"><b>ɴᴜᴍᴘʏ</b></td>
+      <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
+      <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ</b></td>
+      <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="80" height="80"/></td>
+      <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="80" height="80"/></td> 
+      <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="80" height="80"/></td>
+    </tr>
+  </tfoot>
+</table>
+
 <br/>
 
 <!--
