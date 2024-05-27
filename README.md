@@ -81,7 +81,7 @@
    <table align="right">
      <thead>
        <tr>
-         <th scope="col" colspan ="3">​​ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
+         <th scope="col" colspan ="4">​​ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
        </tr>
      </thead>
      <tbody>
