@@ -101,9 +101,7 @@
        </tr>
      </tfoot>
    </table>
-   
-  --- 
-  
+
    <br/>
    
    <table align="left">
@@ -118,7 +116,7 @@
          <td align ="center"><b>ᴄѕѕ</b></td>
          <td align ="center"><b>ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ</b></td>
          <td align ="center"><b>ʀᴇᴀᴄᴛ.ᴊѕ</b></td>
-<!--          <td align ="center"><b>ᴀɴɢᴜʟᴀʀ.ᴊѕ</b></td> -->
+         <td align ="center"><b>ᴀɴɢᴜʟᴀʀ.ᴊѕ</b></td>
 <!--          <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td> -->
        </tr>
      </tbody>
@@ -128,7 +126,7 @@
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="ᴄѕѕ" alt="ᴄѕѕ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="70" height="70"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="70" height="70"/></td>
-<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.js.png" title="ᴀɴɢᴜʟᴀʀ.ᴊѕ" alt="ᴀɴɢᴜʟᴀʀ.ᴊѕ" width="70" height="70"/></td> -->
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.js.png" title="ᴀɴɢᴜʟᴀʀ.ᴊѕ" alt="ᴀɴɢᴜʟᴀʀ.ᴊѕ" width="70" height="70"/></td>
 <!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="70" height="70"/></td> -->
        </tr>
      </tfoot>
