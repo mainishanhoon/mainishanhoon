@@ -89,7 +89,7 @@
          <td align ="center"><b>ѕᴏʟɪᴅɪᴛʏ</b></td>
          <td align ="center"><b>ѕᴏʟᴀɴᴀ</b></td>
          <td align ="center"><b>ɢᴏ</b></td>
-         <td align ="center"><b>ʀᴜѕᴛ</b></td>
+<!--          <td align ="center"><b>ʀᴜѕᴛ</b></td> -->
        </tr>
      </tbody>
      <tfoot>
@@ -97,7 +97,7 @@
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solidity.png" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="65" height="65"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solana.png" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="65" height="65"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="70" height="70"/></td>     
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="70" height="70"/></td>      -->
        </tr>
      </tfoot>
    </table>
@@ -116,8 +116,8 @@
          <td align ="center"><b>ᴄѕѕ</b></td>
          <td align ="center"><b>ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ</b></td>
          <td align ="center"><b>ʀᴇᴀᴄᴛ.ᴊѕ</b></td>
-         <td align ="center"><b>ᴀɴɢᴜʟᴀʀ.ᴊѕ</b></td>
-         <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td>
+<!--          <td align ="center"><b>ᴀɴɢᴜʟᴀʀ.ᴊѕ</b></td> -->
+<!--          <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td> -->
        </tr>
      </tbody>
      <tfoot>
@@ -126,8 +126,8 @@
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/CSS.png" title="ᴄѕѕ" alt="ᴄѕѕ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="70" height="70"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.js.png" title="ᴀɴɢᴜʟᴀʀ.ᴊѕ" alt="ᴀɴɢᴜʟᴀʀ.ᴊѕ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="70" height="70"/></td>
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.js.png" title="ᴀɴɢᴜʟᴀʀ.ᴊѕ" alt="ᴀɴɢᴜʟᴀʀ.ᴊѕ" width="70" height="70"/></td> -->
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="70" height="70"/></td> -->
        </tr>
      </tfoot>
    </table>
@@ -140,13 +140,13 @@
      </thead>
      <tbody>
        <tr>
-         <td align ="center"><b>ɴᴇѕᴛ.ᴊѕ</b></td>
+<!--          <td align ="center"><b>ɴᴇѕᴛ.ᴊѕ</b></td> -->
          <td align ="center"><b>ɴᴏᴅᴇ.ᴊѕ</b></td>
        </tr>
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="70" height="70"/></td>
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="70" height="70"/></td> -->
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="70" height="70"/></td>     
        </tr>
      </tfoot>
@@ -163,7 +163,7 @@
      <tbody>
           <tr>
          <td align ="center"><b>ѕǫ​​ʟ</b></td>
-         <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕǫʟ</b></td>
+<!--          <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕǫʟ</b></td> -->
          <td align ="center"><b>ᴍᴏɴɢᴏᴅʙ</b></td>
          <td align ="center"><b>ᴍʏѕ​​ǫʟ</b></td>
          <td align ="center"><b>ѕǫʟɪᴛᴇ</b></td>
@@ -172,7 +172,7 @@
      <tfoot>
        <tr>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕǫ​​ʟ" alt="ѕǫ​​ʟ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="70" height="70"/></td>
+<!--          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="70" height="70"/></td> -->
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="ᴍᴏɴɢᴏᴅʙ" alt="ᴍᴏɴɢᴏᴅʙ" width="70" height="70"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕǫ​​ʟ" alt="ᴍʏѕǫ​​ʟ" width="70" height="70"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​ǫʟɪᴛᴇ" alt="ѕǫ​​ʟɪᴛᴇ" width="70" height="70"/></td>     
