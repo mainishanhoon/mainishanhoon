@@ -59,13 +59,14 @@
    <table align="left">
      <thead>
        <tr>
-         <th scope="col" colspan ="3">ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
+         <th scope="col" colspan ="5">ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
        </tr>
      </thead>
      <tbody>
           <tr>
          <td align ="center"><b>ᴛʏᴘᴇѕᴄʀɪᴘᴛ</b></td>
          <td align ="center"><b>ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</b></td>
+         <td align ="center"><b>ɢᴏ</b></td>
          <td align ="center"><b>ᴘʏᴛʜᴏɴ</b></td>
        </tr>
      </tbody>
@@ -73,6 +74,7 @@
        <tr>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" alt="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="70" height="70"/></td>     
        </tr>
      </tfoot>
@@ -88,7 +90,6 @@
           <tr>
          <td align ="center"><b>ѕᴏʟɪᴅɪᴛʏ</b></td>
          <td align ="center"><b>ѕᴏʟᴀɴᴀ</b></td>
-         <td align ="center"><b>ɢᴏ</b></td>
 <!--          <td align ="center"><b>ʀᴜѕᴛ</b></td> -->
        </tr>
      </tbody>
@@ -96,7 +97,6 @@
        <tr>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solidity.png" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="65" height="65"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solana.png" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="65" height="65"/></td> 
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="70" height="70"/></td>
 <!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="70" height="70"/></td>      -->
        </tr>
      </tfoot>
