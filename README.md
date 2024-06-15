@@ -95,7 +95,7 @@
      </tbody>
      <tfoot>
        <tr>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solidity.png" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="65" height="65"/></td>
+         <td align ="center"><img src="https://cdn.fosstodon.org/accounts/avatars/000/335/908/original/a00aab5d5ebfdfe0.jpeg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="65" height="65"/></td>
          <td align ="center"><img src="https://solana.com/_next/static/media/solanaLogoMark.17260911.svg" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="65" height="65"/></td> 
 <!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="70" height="70"/></td>      -->
        </tr>
