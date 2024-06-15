@@ -163,7 +163,7 @@
      <tbody>
           <tr>
          <td align ="center"><b>ѕǫ​​ʟ</b></td>
-<!--          <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕǫʟ</b></td> -->
+         <td align ="center"><b>ᴘᴏѕᴛɢʀᴇѕǫʟ</b></td>
          <td align ="center"><b>ᴍᴏɴɢᴏᴅʙ</b></td>
          <td align ="center"><b>ᴍʏѕ​​ǫʟ</b></td>
          <td align ="center"><b>ѕǫʟɪᴛᴇ</b></td>
@@ -172,7 +172,7 @@
      <tfoot>
        <tr>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQL.png" title="ѕǫ​​ʟ" alt="ѕǫ​​ʟ" width="70" height="70"/></td>
-<!--          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="70" height="70"/></td> -->
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" alt="ᴘᴏѕᴛɢʀᴇѕǫ​​ʟ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MongoDB.png" title="ᴍᴏɴɢᴏᴅʙ" alt="ᴍᴏɴɢᴏᴅʙ" width="70" height="70"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/MySQL.png" title="ᴍʏѕǫ​​ʟ" alt="ᴍʏѕǫ​​ʟ" width="70" height="70"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/SQLite.png" title="ѕ🇶​ǫʟɪᴛᴇ" alt="ѕǫ​​ʟɪᴛᴇ" width="70" height="70"/></td>     
