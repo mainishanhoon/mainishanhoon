@@ -180,29 +180,7 @@
      </tfoot>
    </table>
    
-   <table align="right">
-     <thead>
-       <tr>
-         <th scope="col" colspan ="2">​​ᴍᴏᴅᴜʟᴀʀ ᴛᴏᴏʟᴋɪᴛ</th>
-       </tr>
-     </thead>
-     <tbody>
-          <tr>
-         <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
-         <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
-       </tr>
-     </tbody>
-     <tfoot>
-       <tr>
-         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="70" height="70"/></td>
-       </tr>
-     </tfoot>
-   </table>
-   
-   <br/>
-   
-   <table align="left">
+<table align="right">
      <thead>
        <tr>
          <th scope="col" colspan ="3">ᴅᴇᴠᴏᴘѕ</th>
@@ -220,6 +198,28 @@
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="ᴀᴡѕ" alt="ᴀᴡѕ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Git.png" title="ɢɪᴛ" alt="ɢɪᴛ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="ᴅᴏᴄᴋᴇʀ" alt="ᴅᴏᴄᴋᴇʀ" width="70" height="70"/></td>
+       </tr>
+     </tfoot>
+   </table>
+   
+   <br/>
+
+   <table align="left">
+     <thead>
+       <tr>
+         <th scope="col" colspan ="2">​​ᴍᴏᴅᴜʟᴀʀ ᴛᴏᴏʟᴋɪᴛ</th>
+       </tr>
+     </thead>
+     <tbody>
+          <tr>
+         <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
+         <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
+       </tr>
+     </tbody>
+     <tfoot>
+       <tr>
+         <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="70" height="70"/></td>
        </tr>
      </tfoot>
    </table>
