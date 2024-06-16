@@ -13,7 +13,7 @@
       <th align="center" colspan="6">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴏɴ</th>
     </tr>
     <tr>
-    <td align="center">JavaScript</td>
+    <td align="center">React.js</td>
       <td align="center" rowspan="3">
         <a href="https://x.com/mainishanhoon" target="_blank">
           <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Twitter.png" width="80" height="80" alt="Twitter">
