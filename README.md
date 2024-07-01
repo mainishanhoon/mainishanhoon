@@ -107,7 +107,7 @@
    <table align="left">
      <thead>
        <tr>
-         <th scope="col" colspan ="6">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
+         <th scope="col" colspan ="7">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</th>
        </tr>
      </thead>
      <tbody>
