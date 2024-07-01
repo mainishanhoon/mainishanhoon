@@ -59,7 +59,7 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan ="10">ʟᴀɴɢᴜᴀɢᴇѕ</th>
+         <th scope="col" colspan="10">ʟᴀɴɢᴜᴀɢᴇѕ</th>
        </tr>
      </thead>
      <tbody>
@@ -95,7 +95,7 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan ="5">ʟɪʙʀᴀʀɪᴇꜱ</th>
+         <th scope="col" colspan="5">ʟɪʙʀᴀʀɪᴇѕ</th>
        </tr>
      </thead>
      <tbody>
@@ -119,7 +119,7 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan ="5">ꜰʀᴀᴍᴇᴡᴏʀᴋ</th>
+         <th scope="col" colspan="10">ꜰʀᴀᴍᴇᴡᴏʀᴋѕ</th>
        </tr>
      </thead>
      <tbody>
@@ -148,10 +148,10 @@
    
    <br/>
    
-   <table >
+   <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan ="5">​​ᴅᴀᴛᴀʙᴀѕᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ѕʏѕᴛᴇᴍѕ (ᴅʙᴍѕ)</th>
+         <th scope="col" colspan="5">​​ᴅᴀᴛᴀʙᴀѕᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ѕʏѕᴛᴇᴍѕ (ᴅʙᴍѕ)</th>
        </tr>
      </thead>
      <tbody>
@@ -177,7 +177,7 @@
 <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan ="3">ᴅᴇᴠᴏᴘѕ</th>
+         <th scope="col" colspan="3">ᴅᴇᴠᴏᴘѕ</th>
        </tr>
      </thead>
      <tbody>
@@ -201,7 +201,7 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan ="5">​​ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ</th>
+         <th scope="col" colspan="5">​​ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ</th>
        </tr>
      </thead>
      <tbody>
