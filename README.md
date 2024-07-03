@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Github%20Cover%20Page.png" alt="Cover Page"/>
+ <img src="" alt="Cover Page"/>
 </p>
 <!--
 ## ​ᴀʙᴏᴜᴛ ᴍᴇ
