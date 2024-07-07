@@ -129,7 +129,8 @@
          <td align ="center"><b>​ᴠɪᴛᴇ.ᴊѕ​</b></td> 
          <td align ="center"><b>​ɴᴇxᴛ.ᴊѕ​</b></td>
          <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td>
-         <td align ="center"><b>ᴀɴɢᴜʟᴀʀ.ᴊѕ</b></td>
+         <td align ="center"><b>ѕᴠᴇʟᴛᴇ</b></td>
+         <td align ="center"><b>ᴀɴɢᴜʟᴀʀ</b></td>
          <td align ="center"><b>ɴᴇѕᴛ.ᴊѕ</b></td>    
        </tr>
      </tbody>
@@ -140,7 +141,8 @@
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vite.js.png" title="​ᴠɪᴛᴇ.ᴊѕ" alt="​ᴠɪᴛᴇ.ᴊѕ" width="70" height="70"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Next.js.png" title="​ɴᴇxᴛ.ᴊѕ" alt="​ɴᴇxᴛ.ᴊѕ" width="70" height="70"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="70" height="70"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.js.png" title="ᴀɴɢᴜʟᴀʀ.ᴊѕ" alt="ᴀɴɢᴜʟᴀʀ.ᴊѕ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Svelte.png" title="ѕᴠᴇʟᴛᴇ" alt="ѕᴠᴇʟᴛᴇ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.png" title="ᴀɴɢᴜʟᴀʀ" alt="ᴀɴɢᴜʟᴀʀ" width="70" height="70"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="70" height="70"/></td>
        </tr>
      </tfoot>
