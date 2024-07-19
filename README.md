@@ -89,7 +89,7 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan="20">ʟɪʙʀᴀʀɪᴇѕ/ꜰʀᴀᴍᴇᴡᴏʀᴋѕ</th>
+         <th scope="col" colspan="20">ʟɪʙʀᴀʀɪᴇѕ / ꜰʀᴀᴍᴇᴡᴏʀᴋѕ</th>
        </tr>
      </thead>
      <tbody>
