@@ -66,8 +66,8 @@
          <td align ="center"><b>ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</b></td>
          <td align ="center"><b>ɢᴏ</b></td>
          <td align ="center"><b>ѕᴏʟɪᴅɪᴛʏ</b></td>
-         <td align ="center"><b>ѕᴏʟᴀɴᴀ</b></td>
-         <td align ="center"><b>ʀᴜѕᴛ</b></td>
+<!--          <td align ="center"><b>ѕᴏʟᴀɴᴀ</b></td> -->
+<!--          <td align ="center"><b>ʀᴜѕᴛ</b></td> -->
          <td align ="center"><b>ᴘʏᴛʜᴏɴ</b></td>
        </tr>
      </tbody>
@@ -79,25 +79,34 @@
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solidity.svg" title="ѕᴏʟɪᴅɪᴛʏ" alt="ѕᴏʟɪᴅɪᴛʏ" width="60" height="60"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solana.svg" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="60" height="60"/></td> 
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="60" height="60"/></td>          
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Solana.svg" title="ѕᴏʟᴀɴᴀ" alt="ѕᴏʟᴀɴᴀ" width="60" height="60"/></td>  -->
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Rust.png" title="ʀᴜѕᴛ"  alt="ʀᴜѕᴛ" width="60" height="60"/></td>           -->
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="60" height="60"/></td>     
        </tr>
      </tfoot>
    </table>
-
+   
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan="5">ʟɪʙʀᴀʀɪᴇѕ</th>
+         <th scope="col" colspan="20">ʟɪʙʀᴀʀɪᴇѕ/ꜰʀᴀᴍᴇᴡᴏʀᴋѕ</th>
        </tr>
      </thead>
      <tbody>
+       <tr>
        <tr>
          <td align ="center"><b>ɴᴘᴍ</b></td>
          <td align ="center"><b>ʀᴇᴀᴄᴛ.ᴊѕ</b></td>
          <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
          <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
+         <td align ="center"><b>ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ</b></td>
+         <td align ="center"><b>ʙᴏᴏᴛѕᴛʀᴀᴘ</b></td>
+         <td align ="center"><b>ᴇxᴘʀᴇѕѕ.ᴊѕ</b></td>
+<!--          <td align ="center"><b>​ɴᴇxᴛ.ᴊѕ​</b></td> -->
+<!--          <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td> -->
+<!--          <td align ="center"><b>ѕᴠᴇʟᴛᴇ</b></td> -->
+<!--          <td align ="center"><b>ᴀɴɢᴜʟᴀʀ</b></td> -->
+<!--          <td align ="center"><b>ɴᴇѕᴛ.ᴊѕ</b></td>     -->
        </tr>
      </tbody>
      <tfoot>
@@ -106,40 +115,14 @@
         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="60" height="60"/></td>
          <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="60" height="60"/></td>
-       </tr>
-     </tfoot>
-   </table>
-   
-   <table align="center">
-     <thead>
-       <tr>
-         <th scope="col" colspan="10">ꜰʀᴀᴍᴇᴡᴏʀᴋѕ</th>
-       </tr>
-     </thead>
-     <tbody>
-       <tr>
-         <td align ="center"><b>ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ</b></td>
-         <td align ="center"><b>ʙᴏᴏᴛѕᴛʀᴀᴘ</b></td>
-         <td align ="center"><b>ᴇxᴘʀᴇѕѕ.ᴊѕ</b></td>
-         <td align ="center"><b>​ᴠɪᴛᴇ.ᴊѕ​</b></td> 
-         <td align ="center"><b>​ɴᴇxᴛ.ᴊѕ​</b></td>
-         <td align ="center"><b>ᴠᴜᴇ.ᴊѕ</b></td>
-         <td align ="center"><b>ѕᴠᴇʟᴛᴇ</b></td>
-         <td align ="center"><b>ᴀɴɢᴜʟᴀʀ</b></td>
-         <td align ="center"><b>ɴᴇѕᴛ.ᴊѕ</b></td>    
-       </tr>
-     </tbody>
-     <tfoot>
-       <tr>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="60" height="60"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Bootstrap.png" title="ʙᴏᴏᴛѕᴛʀᴀᴘ" alt="ʙᴏᴏᴛѕᴛʀᴀᴘ" width="70" height="60"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Express.js.png" title="​ᴇxᴘʀᴇѕѕ.ᴊѕ" alt="​ᴇxᴘʀᴇѕѕ.ᴊѕ" width="60" height="60"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vite.js.png" title="​ᴠɪᴛᴇ.ᴊѕ" alt="​ᴠɪᴛᴇ.ᴊѕ" width="60" height="60"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Next.js.png" title="​ɴᴇxᴛ.ᴊѕ" alt="​ɴᴇxᴛ.ᴊѕ" width="60" height="60"/></td> 
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="60" height="60"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Svelte.png" title="ѕᴠᴇʟᴛᴇ" alt="ѕᴠᴇʟᴛᴇ" width="60" height="60"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.png" title="ᴀɴɢᴜʟᴀʀ" alt="ᴀɴɢᴜʟᴀʀ" width="60" height="60"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="60" height="60"/></td>
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="60" height="60"/></td> -->
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Svelte.png" title="ѕᴠᴇʟᴛᴇ" alt="ѕᴠᴇʟᴛᴇ" width="60" height="60"/></td> -->
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.png" title="ᴀɴɢᴜʟᴀʀ" alt="ᴀɴɢᴜʟᴀʀ" width="60" height="60"/></td> -->
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Nest.js.png" title="ɴᴇѕᴛ.ᴊѕ" alt="ɴᴇѕᴛ.ᴊѕ" width="60" height="60"/></td> -->
        </tr>
      </tfoot>
    </table>
@@ -173,7 +156,7 @@
 <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan="3">ᴅᴇᴠᴏᴘѕ</th>
+         <th scope="col" colspan="5">ᴅᴇᴠᴏᴘѕ</th>
        </tr>
      </thead>
      <tbody>
@@ -195,11 +178,12 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan="5">​​ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ</th>
+         <th scope="col" colspan="10">​​ᴛᴏᴏʟѕ</th>
        </tr>
      </thead>
      <tbody>
         <tr>
+         <td align ="center"><b>​ᴠɪᴛᴇ.ᴊѕ​</b></td> 
          <td align ="center"><b>ɴᴏᴅᴇ.ᴊѕ</b></td>
          <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
          <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
@@ -208,6 +192,7 @@
      </tbody>
      <tfoot>
        <tr>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vite.js.png" title="​ᴠɪᴛᴇ.ᴊѕ" alt="​ᴠɪᴛᴇ.ᴊѕ" width="60" height="60"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="60" height="60"/></td>     
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="60" height="60"/></td>
