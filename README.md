@@ -118,7 +118,7 @@
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Tailwind%20CSS.png" title="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" alt="ᴛᴀɪʟᴡɪɴᴅ ᴄѕѕ" width="60" height="60"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Bootstrap.png" title="ʙᴏᴏᴛѕᴛʀᴀᴘ" alt="ʙᴏᴏᴛѕᴛʀᴀᴘ" width="70" height="60"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Express.js.png" title="​ᴇxᴘʀᴇѕѕ.ᴊѕ" alt="​ᴇxᴘʀᴇѕѕ.ᴊѕ" width="60" height="60"/></td>
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Next.js.png" title="​ɴᴇxᴛ.ᴊѕ" alt="​ɴᴇxᴛ.ᴊѕ" width="60" height="60"/></td> 
+<!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Next.js.png" title="​ɴᴇxᴛ.ᴊѕ" alt="​ɴᴇxᴛ.ᴊѕ" width="60" height="60"/></td>  -->
 <!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vue.js.png" title="ᴠᴜᴇ.ᴊѕ" alt="ᴠᴜᴇ.ᴊѕ" width="60" height="60"/></td> -->
 <!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Svelte.png" title="ѕᴠᴇʟᴛᴇ" alt="ѕᴠᴇʟᴛᴇ" width="60" height="60"/></td> -->
 <!--          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Angular.png" title="ᴀɴɢᴜʟᴀʀ" alt="ᴀɴɢᴜʟᴀʀ" width="60" height="60"/></td> -->
