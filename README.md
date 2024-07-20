@@ -178,7 +178,7 @@
    <table align="center">
      <thead>
        <tr>
-         <th scope="col" colspan="10">​​ᴛᴏᴏʟѕ /ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ</th>
+         <th scope="col" colspan="10">​​ᴛᴏᴏʟѕ / ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ</th>
        </tr>
      </thead>
      <tbody>
@@ -186,7 +186,7 @@
          <td align ="center"><b>​ᴠɪᴛᴇ.ᴊѕ​</b></td> 
          <td align ="center"><b>ɴᴏᴅᴇ.ᴊѕ</b></td>
          <td align ="center"><b>ʀᴇᴅᴜx</b></td>
-         <td align ="center"><b>ᴠɪѕᴜᴀʟ ѕᴛᴜᴅɪᴏ ᴄᴏᴅᴇ</b></td>
+         <td align ="center"><b>ᴠѕ ᴄᴏᴅᴇ</b></td>
 <!--          <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td> -->
 <!--          <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td> -->
          <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ ɴᴏᴛᴇʙᴏᴏᴋ</b></td>
