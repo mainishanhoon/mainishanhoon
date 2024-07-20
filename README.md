@@ -186,7 +186,7 @@
          <td align ="center"><b>​ᴠɪᴛᴇ.ᴊѕ​</b></td> 
          <td align ="center"><b>ɴᴏᴅᴇ.ᴊѕ</b></td>
          <td align ="center"><b>ʀᴇᴅᴜx</b></td>
-         <td align ="center"><b>ᴠɪꜱᴜᴀʟ ꜱᴛᴜᴅɪᴏ ᴄᴏᴅᴇ</b></td>
+         <td align ="center"><b>ᴠɪѕᴜᴀʟ ѕᴛᴜᴅɪᴏ ᴄᴏᴅᴇ</b></td>
          <td align ="center"><b>ʜᴀʀᴅʜᴀᴛ</b></td>
          <td align ="center"><b>ꜰᴏᴜɴᴅʀʏ</b></td>
          <td align ="center"><b>ᴊᴜᴘʏᴛᴇʀ ɴᴏᴛᴇʙᴏᴏᴋ</b></td>
@@ -196,8 +196,8 @@
        <tr>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vite.js.png" title="​ᴠɪᴛᴇ.ᴊѕ" alt="​ᴠɪᴛᴇ.ᴊѕ" width="60" height="60"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="60" height="60"/></td>     
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Redux.svg" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="60" height="60"/></td>     
-         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/d.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="60" height="60"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Redux.svg" title="ᴠѕ ᴄᴏᴅᴇ"  alt="ᴠѕ ᴄᴏᴅᴇ" width="60" height="60"/></td>     
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Visual%20Studio%20Code.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="60" height="60"/></td>     
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="ʜᴀʀᴅʜᴀᴛ" alt="ʜᴀʀᴅʜᴀᴛ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/foundry-rs/.github/blob/main/profile/logo.png" title="ꜰᴏᴜɴᴅʀʏ" alt="ꜰᴏᴜɴᴅʀʏ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="ᴊᴜᴘʏᴛᴇʀ" alt="ᴊᴜᴘʏᴛᴇʀ" width="60" height="60"/></td> 
