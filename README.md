@@ -45,11 +45,11 @@
       </td>
     </tr>
     <tr>
+    <td align="center"><b>TypeScript</b></td>
+    </tr>
+    <tr>
     <td align="center"><b>Go</b></td>
     </tr>
-<!--     <tr>
-    <td align="center">Solidity</td>
-    </tr> -->
   </table>
 
    <table align="center">
