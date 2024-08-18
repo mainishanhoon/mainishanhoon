@@ -95,7 +95,6 @@
      <tbody>
        <tr>
        <tr>
-         <td align ="center"><b>ɴᴘᴍ</b></td>
          <td align ="center"><b>ʀᴇᴀᴄᴛ.ᴊѕ</b></td>
          <td align ="center"><b>ᴘᴀɴᴅᴀѕ</b></td>
          <td align ="center"><b>ᴍᴀᴛᴘʟᴏᴛʟɪʙ</b></td>
@@ -111,7 +110,6 @@
      </tbody>
      <tfoot>
        <tr>
-        <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/npm.png" title="ɴᴘᴍ" alt="ɴᴘᴍ" width="60" height="60"/></td>
         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/React.js.png" title="ʀᴇᴀᴄᴛ.ᴊѕ" alt="ʀᴇᴀᴄᴛ.ᴊѕ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="ᴘᴀɴᴅᴀѕ" alt="ᴘᴀɴᴅᴀѕ" width="60" height="60"/></td>
          <td align ="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" title="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" alt="ᴍᴀᴛᴘʟᴏᴛʟɪʙ" width="60" height="60"/></td>
@@ -183,6 +181,7 @@
      </thead>
      <tbody>
         <tr>
+         <td align ="center"><b>ɴᴘᴍ</b></td>
          <td align ="center"><b>​ᴠɪᴛᴇ.ᴊѕ​</b></td> 
          <td align ="center"><b>ɴᴏᴅᴇ.ᴊѕ</b></td>
          <td align ="center"><b>ʀᴇᴅᴜx</b></td>
@@ -194,6 +193,7 @@
      </tbody>
      <tfoot>
        <tr>
+        <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/npm.png" title="ɴᴘᴍ" alt="ɴᴘᴍ" width="60" height="60"/></td>
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Vite.js.png" title="​ᴠɪᴛᴇ.ᴊѕ" alt="​ᴠɪᴛᴇ.ᴊѕ" width="60" height="60"/></td> 
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Node.js.png" title="ɴᴏᴅᴇ.ᴊѕ"  alt="ɴᴏᴅᴇ.ᴊѕ" width="60" height="60"/></td>     
          <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Redux.svg" title="ᴠѕ ᴄᴏᴅᴇ"  alt="ᴠѕ ᴄᴏᴅᴇ" width="60" height="60"/></td>     
