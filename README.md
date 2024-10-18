@@ -45,9 +45,6 @@
       </td>
     </tr>
     <tr>
-    <td align="center"><b>Java</b></td>
-    </tr>
-    <tr>
     <td align="center"><b>Go</b></td>
     </tr>
   </table>
