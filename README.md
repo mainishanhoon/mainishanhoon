@@ -65,7 +65,7 @@
          <td align ="center"><b>ѕᴏʟɪᴅɪᴛʏ</b></td>
 <!--          <td align ="center"><b>ѕᴏʟᴀɴᴀ</b></td> -->
 <!--          <td align ="center"><b>ʀᴜѕᴛ</b></td> -->
-         <td align ="center"><b>ᴘʏᴛʜᴏɴ</b></td>
+<!--          <td align ="center"><b>ᴘʏᴛʜᴏɴ</b></td> -->
        </tr>
      </tbody>
      <tfoot>
