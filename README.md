@@ -61,7 +61,7 @@
          <td align ="center"><b>ᴄѕѕ</b></td>
          <td align ="center"><b>ᴛʏᴘᴇѕᴄʀɪᴘᴛ</b></td>
          <td align ="center"><b>ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</b></td>
-         <td align ="center"><b>ɢᴏ</b></td>
+<!--          <td align ="center"><b>ɢᴏ</b></td> -->
          <td align ="center"><b>ѕᴏʟɪᴅɪᴛʏ</b></td>
 <!--          <td align ="center"><b>ѕᴏʟᴀɴᴀ</b></td> -->
 <!--          <td align ="center"><b>ʀᴜѕᴛ</b></td> -->
